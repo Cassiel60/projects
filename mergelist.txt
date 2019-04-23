@@ -1,0 +1,12 @@
+ERR188044_chrX.gtf
+ERR188104_chrX.gtf
+ERR188234_chrX.gtf
+ERR188245_chrX.gtf
+ERR188257_chrX.gtf
+ERR188273_chrX.gtf
+ERR188337_chrX.gtf
+ERR188383_chrX.gtf
+ERR188401_chrX.gtf
+ERR188428_chrX.gtf
+ERR188454_chrX.gtf
+ERR204916_chrX.gtf
