@@ -30,7 +30,7 @@ SAMTOOLS=/media/gsadmin/vd1/xxxx/software/samtools/samtools
 ## parameter is provided to the main pipeline script)
 
 ## Optional base directory, if most of the input files have a common path
-BASEDIR="/media/gsadmin/vd2/mysql/chrX_data/chrX_data"
+BASEDIR="/media/gsadmin/vd2/mysql/chrX_data/chrX_data"      # /media/gsadmin/vd2/mysql/chrX_data/   i stored the data in the path
 #BASEDIR=$(pwd -P)/chrX_data
 
 FASTQLOC="$BASEDIR/samples"
