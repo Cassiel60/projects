@@ -15,7 +15,7 @@ NUMCPUS=8
 BINDIR=/media/gsadmin/vd2/software
 HISAT2=$BINDIR/hisat2-2.1.0/hisat2
 STRINGTIE=$BINDIR/stringtie-1.3.4d.Linux_x86_64/stringtie
-SAMTOOLS=/media/gsadmin/vd1/heguangliang/software/samtools/samtools
+SAMTOOLS=/media/gsadmin/vd1/xxxx/software/samtools/samtools
 
 #if these programs are not in any PATH directories, please edit accordingly:
 # HISAT2=$(which hisat2)
