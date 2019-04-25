@@ -1,4 +1,6 @@
 # projects
+
+
 the  tutorial version of hisat  scripts uesage:
 ./rnaseq_pipeline.sh  outputdir  
 when you run this script ,you may count the problem 
