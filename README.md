@@ -1,4 +1,4 @@
-# projects
+# RNA_seq
 
 
 the  tutorial version of hisat  scripts uesage:
